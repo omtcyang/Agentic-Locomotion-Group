@@ -1,3 +1,3 @@
-# Agentic Locomotion Group
+# Agentic Locomotion Group (ALG)
 
-Come to Agentic Locomotion Group [HOMEPAGE](https://e2a.team) for trying our projects ONLINE!
+Come to ALG [HOMEPAGE](https://e2a.team) for trying our projects ONLINE!
